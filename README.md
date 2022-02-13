@@ -1,4 +1,4 @@
-# Lua-for-LabVIEW
+# Lua for LabVIEW
 
 Lua for LabVIEW* is a safe and concise Lua 5.4 binding for LabVIEW.
 
