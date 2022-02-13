@@ -8,6 +8,8 @@
 		<Item Name="Enumerate Menus.vi" Type="VI" URL="../subVIs/Enumerate Menus.vi"/>
 		<Item Name="Lua class path.vi" Type="VI" URL="../subVIs/Lua class path.vi"/>
 		<Item Name="Lua palette file path.vi" Type="VI" URL="../subVIs/Lua palette file path.vi"/>
+		<Item Name="Lua Thread class path.vi" Type="VI" URL="../subVIs/Lua Thread class path.vi"/>
+		<Item Name="Make Icons.vi" Type="VI" URL="../subVIs/Make Icons.vi"/>
 	</Item>
 	<Item Name="Update Lua Palettes.vi" Type="VI" URL="../Update Lua Palettes.vi"/>
 </Library>
