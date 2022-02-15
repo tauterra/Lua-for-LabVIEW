@@ -4,9 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Disposable.lvclass" Type="LVClass" URL="../Disposable/Disposable.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Lua Thread.lvclass" Type="LVClass" URL="../Lua Thread/Lua Thread.lvclass"/>
 	<Item Name="Lua.lvclass" Type="LVClass" URL="../Lua/Lua.lvclass"/>
+	<Item Name="Lua Thread.lvclass" Type="LVClass" URL="../Lua Thread/Lua Thread.lvclass"/>
 </Library>
